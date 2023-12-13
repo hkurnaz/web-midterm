@@ -13,6 +13,8 @@ const routes: RouteRecordRaw[] = [
         path: 'carousel',
         component: () => import('components/HomeCarousel.vue'),
       },
+      { path: 'comp4', component: () => import('components/TheComp4.vue') },
+      { path: 'comp5', component: () => import('components/TheComp5.vue') },
     ],
   },
 
