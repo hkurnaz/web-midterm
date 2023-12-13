@@ -106,7 +106,6 @@
       </v-row>
     </v-container>
   </div>
-  <HomeCarousel />
 </template>
 
 <script setup>
