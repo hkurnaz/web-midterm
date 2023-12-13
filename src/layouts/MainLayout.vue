@@ -63,6 +63,14 @@ const componentLinks: ComponentLinkProps[] = [
     caption: 'Harun Kurnaz',
     link: '/header',
   },
+  {
+    title: 'footer',
+    link: '/comp4',
+  },
+  {
+    title: 'Sepet boş',
+    link: '/comp5',
+  },
 ];
 
 const toggleLeftDrawer = () => {
